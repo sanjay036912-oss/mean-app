@@ -127,6 +127,13 @@ npm install --legacy-peer-deps
 <img width="1536" height="1024" alt="MEAN-APP" src="https://github.com/user-attachments/assets/edd180d5-243e-497b-bf60-22a0d3f03ca4" />
 
 ---
+
+# Result
+
+<img width="1894" height="958" alt="Screenshot 2026-02-25 114743" src="https://github.com/user-attachments/assets/f10720a7-f349-42de-8e68-8c7988ee50a9" />
+<img width="1897" height="964" alt="Screenshot 2026-02-25 114804" src="https://github.com/user-attachments/assets/ecb08908-eeed-4c80-ae6e-0a5c669bbb9d" />
+
+---
 # License
 ## This project is open-source and free to use.
 ```
