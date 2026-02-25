@@ -122,10 +122,14 @@ npm install --legacy-peer-deps
 ```
 ## TypeScript version issues: Make sure your package.json dependencies match Angular requirements (>=5.9 <6.0 for Angular 21+).
 ---
+# Structural Daigram
+
+<img width="1536" height="1024" alt="MEAN-APP" src="https://github.com/user-attachments/assets/edd180d5-243e-497b-bf60-22a0d3f03ca4" />
+
+---
 # License
 ## This project is open-source and free to use.
 ```
-
 This is fully **Markdown-ready** for GitHub and will render cleanly with code blocks, headings, and sections.  
 
 If you want, I can also make a **super short, super clean GitHub-ready README** that’s <50 lines and perfect for “clone and run” style.  
